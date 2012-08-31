@@ -13,6 +13,6 @@
 Ceci est une page JSP ; elle peut inclure du code Java.
  Nous sommes aujourd'hui le :<%= new java.util.Date() %>
  <br>
- Version 2
+ Version 3
 </body>
 </html>
